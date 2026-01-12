@@ -10,7 +10,7 @@ use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
 {
-    use WithoutModelEvents;
+   // use WithoutModelEvents;
 
     /**
      * Seed the application's database.
